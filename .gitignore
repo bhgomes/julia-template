@@ -13,4 +13,6 @@ Manifest.toml
 # Other
 .temp/
 .idea/
+.vscode/
 .DS_Store
+*.code-workspace
