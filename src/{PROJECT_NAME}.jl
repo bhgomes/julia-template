@@ -4,7 +4,7 @@
 __precompile__(true)
 
 """```
-{PROJECT_NAME}
+module {PROJECT_NAME}
 ```
 {PROJECT_DESCRIPTION}
 See https://github.com/{username}/{PROJECT_NAME}.jl for more details.

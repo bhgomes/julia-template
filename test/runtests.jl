@@ -1,4 +1,4 @@
 # src/runtests.jl
-# {TEST_DESCRIPTION}
+# Test Suite for {PROJECT_NAME}
 
 using {PROJECT_NAME}
