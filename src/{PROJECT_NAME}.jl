@@ -7,7 +7,7 @@ __precompile__(true)
 module {PROJECT_NAME}
 ```
 {PROJECT_DESCRIPTION}
-See https://github.com/{username}/{PROJECT_NAME}.jl for more details.
+See https://github.com/{USERNAME}/{PROJECT_NAME}.jl for more details.
 """
 module {PROJECT_NAME}
 

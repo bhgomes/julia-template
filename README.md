@@ -8,7 +8,7 @@
 {APPVEYOR_BADGE}
 [![Coverage Status](https://coveralls.io/repos/github/{USERNAME}/{PROJECT_NAME}.jl/badge.svg?branch=master)](https://coveralls.io/github/{USERNAME}/{PROJECT_NAME}.jl?branch=master)
 [![Formatting](https://img.shields.io/badge/format-tab%204%20margin%2096-888)](https://github.com/domluna/JuliaFormatter.jl)
-[![GitHub Repo](https://img.shields.io/badge/repo-GitHub-black)](https://github.com/bhgomes/AbstractWallets.jl)
+[![GitHub Repo](https://img.shields.io/badge/repo-GitHub-black)](https://github.com/{USERNAME}/{PROJECT_NAME}.jl)
 
 _{PROJECT_DESCRIPTION}_
 
