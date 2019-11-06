@@ -16,7 +16,7 @@ _{PROJECT_DESCRIPTION}_
 
 ## Installation
 
-To install open a Julia REPL and run the following:
+To install, open a Julia REPL and run the following:
 
 ```julia
 ]add https://github.com/{USERNAME}/{PROJECT_NAME}.jl
