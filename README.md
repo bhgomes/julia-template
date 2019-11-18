@@ -7,7 +7,7 @@
 [![Travis Build Status](https://img.shields.io/travis/{USERNAME}/{PROJECTNAME}.svg?style=flat-square)](https://travis-ci.org/{USERNAME}/{PROJECTNAME})
 [![AppVeyor Build Status](https://img.shields.io/appveyor/ci/{USERNAME}/{PROJECTNAME}?style=flat-square)](https://ci.appveyor.com/project/{USERNAME}/{PROJECTNAME})
 [![Coveralls Coverage Status](https://img.shields.io/coveralls/github/{USERNAME}/{PROJECT_NAME}?style=flat-square)](https://coveralls.io/github/{USERNAME}/{PROJECT_NAME})
-[![Formatting](https://img.shields.io/badge/format-tab%204%20margin%2096-888)](https://github.com/domluna/JuliaFormatter.jl)
+[![Formatting](https://img.shields.io/badge/format-tab%204%20margin%2096-888?style=flat-square)](https://github.com/domluna/JuliaFormatter.jl)
 
 _{PROJECT_DESCRIPTION}_
 
